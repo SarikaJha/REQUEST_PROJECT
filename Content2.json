@@ -1,0 +1,12 @@
+{
+    "id": "6007",
+    "parent_exercise_id": null,
+    "name": "keys_w_o_spacebar",
+    "slug": "top-row-tg_json__keys_w_o_spacebar_json",
+    "sequence_num": 700,
+    "review_type": "manual",
+    "solution": null,
+    "content": "[\"{\\\"value\\\":[{\\\"component\\\":\\\"header\\\",\\\"variant\\\":2,\\\"value\\\":\\\"keys_w_o_spacebar_key1\\\"},{\\\"component\\\":\\\"text\\\",\\\"value\\\":\\\"keys_w_o_spacebar_key2\\\"},{\\\"component\\\":\\\"banner\\\",\\\"title\\\":\\\"Top Row, keys w, space bar, o\\\",\\\"value\\\":\\\"\\\",\\\"actions\\\":[{\\\"url\\\":\\\"https://merakilearn.org/typing\\\",\\\"label\\\":\\\"Practice Typing\\\",\\\"data\\\":\\\"{\\\\\\\"content\\\\\\\":[\\\\\\\"w\\\\\\\",\\\\\\\"o\\\\\\\"],\\\\\\\"code\\\\\\\":\\\\\\\"trytyping\\\\\\\"}\\\",\\\"variant\\\":\\\"secondary\\\"}]}]}\"]",
+    "submission_type": null,
+    "github_link": "https://github.com/navgurukul/newton/tree/master/top-row-tg_json/keys_w_o_spacebar.json"
+}
